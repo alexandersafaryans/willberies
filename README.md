@@ -1,1 +1,2 @@
-# willberies
+# willberies - Учебный проект Willberies
+
